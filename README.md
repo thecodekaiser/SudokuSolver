@@ -1,5 +1,5 @@
 # SudokuSolver
-This is a simple SudokuSolver. I have right now created two versions of the solver.
+This is a simple SudokuSolver.For now I have created two versions of the solver.
 
 1. First one uses simple backtracking to solve the puzzle. 
 
